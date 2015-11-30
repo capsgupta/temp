@@ -1,4 +1,1 @@
-# temp
-Temporary repos
-Tmep
-checking
+Setting up Github
